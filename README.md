@@ -1,4 +1,4 @@
-# ✅ VULMS Theme
+# ✅ Instagram Threads Theme 
 - Improved theme for Instagram Web (Based on Threads)
 ## ❓How to use
 - Install any browser Extension/Addon which can inject CSS *(**Stylebot** recommended)*
